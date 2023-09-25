@@ -697,17 +697,6 @@ exports.vehicle = {
   }
 }
 
-<<<<<<< Updated upstream
-exports.let ={
-    $project: {
-        _id: 1
-    }
-=======
-exports.tata={
-    
->>>>>>> Stashed changes
-}
-
 exports.products_warranty = {
   $addFields: {
       "products": {
