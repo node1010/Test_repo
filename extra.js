@@ -697,6 +697,11 @@ exports.vehicle = {
   }
 }
 
+exports.let ={
+    $project: {
+        _id: 1
+    }
+}
 
 exports.products_warranty = {
   $addFields: {
