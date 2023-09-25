@@ -697,9 +697,6 @@ exports.vehicle = {
   }
 }
 
-exports.let ={
-    
-}
 
 exports.products_warranty = {
   $addFields: {
